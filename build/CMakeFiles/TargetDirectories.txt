@@ -1,0 +1,3 @@
+/home/iamctr/homeworks/6122/FinalProject/FinalProject/build/CMakeFiles/rebuild_cache.dir
+/home/iamctr/homeworks/6122/FinalProject/FinalProject/build/CMakeFiles/p3.dir
+/home/iamctr/homeworks/6122/FinalProject/FinalProject/build/CMakeFiles/edit_cache.dir

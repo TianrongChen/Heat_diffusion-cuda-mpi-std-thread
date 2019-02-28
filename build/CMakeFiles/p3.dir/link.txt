@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Werror   CMakeFiles/p3.dir/src/p3_generated_Source.cu.o  -o p3 /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so 
